@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">loginWithRoom</string>
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="register">register</string>
+    <string name="back_to_login">back to login</string>
+</resources>
